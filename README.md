@@ -2,7 +2,7 @@
 
 <h2>Overview</h2>
 
-In the previous project, we completed the link between the user interface and the backend Board class. Now we have in place a simple game that a user can actually play.
+In the previous project, we completed the link between the user interface and the backend Board class. We have build a game that a user can actually play.
 
 We have something special planned for this project - we are going to add a new feature. We will add capability to save the state of the game and to  reload the saved state at a later time.
 
